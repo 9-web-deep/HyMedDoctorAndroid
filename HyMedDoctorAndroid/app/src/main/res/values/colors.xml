@@ -1,0 +1,41 @@
+<resources>
+    <color name="launcher_bg">#1769C2</color>
+
+    <!-- Primary palette -->
+    <color name="primary">#1769C2</color>
+    <color name="primary_dark">#0E4F94</color>
+    <color name="primary_light">#3B82F6</color>
+
+    <!-- Light theme -->
+    <color name="light_bg">#F0F4F8</color>
+    <color name="light_surface">#FFFFFF</color>
+    <color name="light_surface_variant">#F8FAFE</color>
+    <color name="light_fg">#132033</color>
+    <color name="light_muted">#6A7688</color>
+    <color name="light_border">#E2E8F0</color>
+    <color name="light_soft_blue">#E7F2FF</color>
+    <color name="light_banner_text">#EAF4FF</color>
+    <color name="light_input_bg">#F8FBFE</color>
+    <color name="light_nav_bg">#FFFFFF</color>
+    <color name="light_success">#16A34A</color>
+    <color name="light_warning">#F59E0B</color>
+
+    <!-- Dark theme -->
+    <color name="dark_bg">#0F172A</color>
+    <color name="dark_surface">#1E293B</color>
+    <color name="dark_surface_variant">#263449</color>
+    <color name="dark_fg">#EEF4FF</color>
+    <color name="dark_muted">#A7B4C6</color>
+    <color name="dark_border">#334155</color>
+    <color name="dark_soft_blue">#193655</color>
+    <color name="dark_banner_text">#DBEAFE</color>
+    <color name="dark_input_bg">#263449</color>
+    <color name="dark_nav_bg">#1E293B</color>
+    <color name="dark_success">#22C55E</color>
+    <color name="dark_warning">#FBBF24</color>
+
+    <!-- Common -->
+    <color name="white">#FFFFFF</color>
+    <color name="red">#B42318</color>
+    <color name="red_light">#FEE2E2</color>
+</resources>

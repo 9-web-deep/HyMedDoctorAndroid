@@ -1,0 +1,180 @@
+<resources>
+    <string name="app_name">HyMed Doctor</string>
+
+    <!-- Login -->
+    <string name="title_brand_name">HyMed Doctor</string>
+    <string name="title_login">Doctor Login</string>
+    <string name="label_server_url">Server URL</string>
+    <string name="label_doctor_account">Doctor account</string>
+    <string name="label_password">Password</string>
+    <string name="hint_doctor_account">doctor01</string>
+    <string name="btn_login">Login</string>
+    <string name="msg_enter_account_password">Please enter account and password.</string>
+    <string name="msg_logging_in">Logging in…</string>
+    <string name="msg_login_failed">Login failed: %s</string>
+
+    <!-- Header -->
+    <string name="title_doctor_home">Doctor Home</string>
+    <string name="title_features">Features</string>
+    <string name="title_dispensing">Dispensing</string>
+    <string name="title_infusion">Infusion</string>
+    <string name="title_case_ai">Case AI</string>
+    <string name="title_ct">CT</string>
+    <string name="title_data">Data</string>
+    <string name="title_settings">Settings</string>
+    <string name="default_avatar">D</string>
+
+    <!-- Patient Selector -->
+    <string name="label_current_patient">Current patient</string>
+
+    <!-- Home -->
+    <string name="label_pending_tasks">Pending tasks</string>
+    <string name="label_patient_overview">%s overview</string>
+    <string name="btn_data">Data</string>
+    <string name="label_dispense">Dispense</string>
+    <string name="label_infusion">Infusion</string>
+    <string name="label_done">Done</string>
+    <string name="label_quick_actions">Quick actions</string>
+    <string name="title_dispensing_tasks">Dispensing tasks</string>
+    <string name="desc_dispensing_tasks">Create and view dispensing tasks</string>
+    <string name="title_infusion_tasks">Infusion tasks</string>
+    <string name="desc_infusion_tasks">Create and view infusion tasks</string>
+    <string name="title_case_generator">Case generator</string>
+    <string name="desc_case_generator">Record voice and generate case draft</string>
+    <string name="title_ct_analysis">CT analysis</string>
+    <string name="desc_ct_analysis">Open CT assistant page</string>
+    <string name="label_recent_events">Recent events</string>
+    <string name="msg_no_recent_events">No recent events</string>
+
+    <!-- Feature Menu -->
+    <string name="desc_dispensing_menu">Create task and share data with nurse side</string>
+    <string name="desc_infusion_menu">Create infusion task for nurse execution</string>
+    <string name="title_case_generator_ai">Case generator AI</string>
+    <string name="desc_case_menu">Native mic input and case generation</string>
+    <string name="desc_ct_menu">Open existing Dify CT assistant</string>
+    <string name="title_treatment_data">Treatment data</string>
+    <string name="desc_timeline_menu">View timeline and task records</string>
+
+    <!-- Back -->
+    <string name="btn_back_features">Back to features</string>
+
+    <!-- Dispensing / Infusion -->
+    <string name="title_create_dispensing">Create dispensing task</string>
+    <string name="title_dispensing_status">Dispensing task status</string>
+    <string name="title_create_infusion">Create infusion task</string>
+    <string name="title_infusion_status">Infusion task status</string>
+
+    <!-- Order Form -->
+    <string name="label_opd_id">OPD ID</string>
+    <string name="hint_opd_id">OPD ID</string>
+    <string name="hint_medicine_name">Medicine name</string>
+    <string name="hint_specification">Specification</string>
+    <string name="hint_amount">Amount</string>
+    <string name="label_item">Item %d</string>
+    <string name="btn_remove_item">Remove item</string>
+    <string name="btn_add_item">Add item</string>
+    <string name="btn_submit">Submit</string>
+    <string name="msg_no_tasks">No tasks</string>
+
+    <!-- Case Generator -->
+    <string name="label_patient_name">Patient name</string>
+    <string name="hint_conversation">Type or record outpatient conversation</string>
+    <string name="btn_stop_transcribe">Stop and transcribe</string>
+    <string name="btn_mic_input">Mic input</string>
+    <string name="btn_generate_case">Generate case draft</string>
+    <string name="label_conversation_text">Conversation text</string>
+    <string name="label_result">Result</string>
+    <string name="msg_result_placeholder">Result will appear here</string>
+
+    <!-- CT -->
+    <string name="msg_ct_info">CT assistant — Dify chatbot</string>
+
+
+    <!-- Timeline -->
+    <string name="btn_refresh">Refresh</string>
+    <string name="msg_no_timeline">No timeline records</string>
+
+    <!-- Settings -->
+    <string name="label_theme">Theme</string>
+    <string name="label_dark_mode">Dark mode</string>
+    <string name="label_light_mode">Light mode</string>
+    <string name="label_language">Language</string>
+    <string name="label_chinese">中文</string>
+    <string name="label_english">English</string>
+    <string name="title_refresh_data">Refresh data</string>
+    <string name="desc_refresh_data">Sync current patient data</string>
+    <string name="btn_logout">Logout</string>
+    <string name="label_timeline_count">%d timeline records</string>
+
+    <!-- Bottom Nav -->
+    <string name="tab_home">Home</string>
+    <string name="tab_features">Features</string>
+    <string name="tab_settings">Settings</string>
+
+    <!-- Status -->
+    <string name="label_pending">Pending</string>
+
+    <!-- Task Display -->
+    <string name="label_task_id">Task ID: %s</string>
+    <string name="label_updated">Updated: %s</string>
+
+    <!-- Patient Management -->
+    <string name="title_patient_management">Patient Management</string>
+    <string name="desc_patient_management">Create, view, edit, and delete patient records</string>
+    <string name="btn_add_patient">Add patient</string>
+    <string name="btn_edit_patient">Edit</string>
+    <string name="btn_delete_patient">Delete</string>
+    <string name="btn_save_patient">Save patient</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="label_patient_id">Patient ID</string>
+    <string name="label_name">Name</string>
+    <string name="label_gender">Gender</string>
+    <string name="label_age">Age</string>
+    <string name="label_department">Department</string>
+    <string name="label_bed_no">Bed No.</string>
+    <string name="label_diagnosis">Diagnosis</string>
+    <string name="label_attending_doctor">Attending Doctor</string>
+    <string name="label_primary_nurse">Primary Nurse</string>
+    <string name="label_allergies">Allergies</string>
+    <string name="hint_patient_id">e.g. P0001</string>
+    <string name="hint_name">Full name</string>
+    <string name="hint_age">Age</string>
+    <string name="hint_department">Department</string>
+    <string name="hint_bed_no">Bed No.</string>
+    <string name="hint_diagnosis">Diagnosis</string>
+    <string name="hint_attending_doctor">Attending doctor</string>
+    <string name="hint_primary_nurse">Primary nurse</string>
+    <string name="hint_allergies">Allergies (comma separated)</string>
+    <string name="label_male">Male</string>
+    <string name="label_female">Female</string>
+    <string name="label_other">Other</string>
+    <string name="msg_confirm_delete_patient">Permanently delete patient %s and all related records? This cannot be undone.</string>
+    <string name="msg_patient_created">Patient created.</string>
+    <string name="msg_patient_updated">Patient updated.</string>
+    <string name="msg_patient_deleted">Patient deleted.</string>
+    <string name="msg_patient_create_failed">Create failed: %s</string>
+    <string name="msg_patient_update_failed">Update failed: %s</string>
+    <string name="msg_patient_delete_failed">Delete failed: %s</string>
+    <string name="msg_no_patients">No patients.</string>
+    <string name="title_create_patient">Create patient</string>
+    <string name="title_edit_patient">Edit patient</string>
+
+    <!-- Toasts -->
+    <string name="msg_refresh_failed">Refresh failed: %s</string>
+    <string name="msg_enter_medicine">Please enter medicine name.</string>
+    <string name="msg_dispensing_submitted">Dispensing task submitted.</string>
+    <string name="msg_submit_failed">Submit failed: %s</string>
+    <string name="msg_enter_fluid">Please enter fluid or medicine name.</string>
+    <string name="msg_infusion_submitted">Infusion task submitted.</string>
+    <string name="msg_enter_conversation">Please type or record conversation text first.</string>
+    <string name="msg_generating">Generating…</string>
+    <string name="msg_case_failed">Case generation failed: %s</string>
+    <string name="msg_mic_permission">Please grant microphone permission and tap again.</string>
+    <string name="msg_recording_started">Recording started.</string>
+    <string name="msg_recording_failed">Recording failed: %s</string>
+    <string name="msg_no_audio">No audio file.</string>
+    <string name="msg_transcribing">Transcribing…</string>
+    <string name="msg_no_text">No text recognized.</string>
+    <string name="msg_voice_converted">Voice converted to text.</string>
+    <string name="msg_transcription_failed">Transcription failed: %s</string>
+</resources>

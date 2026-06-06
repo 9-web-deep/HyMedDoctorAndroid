@@ -1,0 +1,48 @@
+<resources>
+    <!-- Base dimensions (phone) -->
+    <dimen name="screen_padding_h">14dp</dimen>
+    <dimen name="screen_padding_v">14dp</dimen>
+    <dimen name="card_padding">16dp</dimen>
+    <dimen name="card_margin">6dp</dimen>
+    <dimen name="card_radius">16dp</dimen>
+    <dimen name="card_elevation">2dp</dimen>
+
+    <dimen name="banner_padding">18dp</dimen>
+    <dimen name="banner_radius">14dp</dimen>
+
+    <dimen name="btn_radius">14dp</dimen>
+    <dimen name="btn_padding_h">18dp</dimen>
+    <dimen name="btn_padding_v">12dp</dimen>
+    <dimen name="avatar_radius">14dp</dimen>
+    <dimen name="avatar_size">48dp</dimen>
+
+    <dimen name="nav_padding_h">10dp</dimen>
+    <dimen name="nav_padding_v">8dp</dimen>
+    <dimen name="nav_height">58dp</dimen>
+    <dimen name="nav_btn_radius">18dp</dimen>
+
+    <dimen name="input_radius">12dp</dimen>
+    <dimen name="input_min_height">46dp</dimen>
+    <dimen name="input_padding_h">12dp</dimen>
+
+    <dimen name="title_size">27sp</dimen>
+    <dimen name="section_title_size">18sp</dimen>
+    <dimen name="brand_size">12sp</dimen>
+    <dimen name="label_size">12sp</dimen>
+    <dimen name="body_size">14sp</dimen>
+    <dimen name="stat_value_size">26sp</dimen>
+    <dimen name="banner_value_size">42sp</dimen>
+    <dimen name="patient_info_size">16sp</dimen>
+    <dimen name="action_title_size">15sp</dimen>
+    <dimen name="action_subtitle_size">13sp</dimen>
+    <dimen name="nav_text_size">13sp</dimen>
+    <dimen name="login_title_size">30sp</dimen>
+    <dimen name="empty_text_size">14sp</dimen>
+    <dimen name="event_text_size">13sp</dimen>
+
+    <dimen name="icon_size">18dp</dimen>
+    <dimen name="spacing_xs">4dp</dimen>
+    <dimen name="spacing_sm">8dp</dimen>
+    <dimen name="spacing_md">12dp</dimen>
+    <dimen name="spacing_lg">20dp</dimen>
+</resources>
